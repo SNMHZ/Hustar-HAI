@@ -1,4 +1,4 @@
-## HAI-RC카를 이용한 자율주행
+## RC카를 이용한 자율주행
 
 ### Members
 - [박재성](https://github.com/wotjd0715)
